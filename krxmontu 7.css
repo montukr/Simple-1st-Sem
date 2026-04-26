@@ -1,0 +1,128 @@
+
+body{
+    background-image: url(krxmontu\ 7\ 10.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+#header1{
+    margin: 42px 320px;
+    text-align: center;
+    font-size: 87px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius:100px;
+    background-color: rgb(40, 39, 39);
+    box-shadow: 3px 3px 3px gray;
+    color: rgb(255, 255, 255);
+}
+
+.head1{
+    border: 2px solid black;
+    width: 288px;
+    text-align: center;
+    border-radius: 60px;
+    background-color: rgb(53, 47, 40);
+    box-shadow: 3px 3px 3px gray;
+    color: rgb(255, 255, 255);
+}
+
+.head2{
+    border: 2px solid black;
+    width: 180px;
+    text-align: center;
+    border-radius: 60px;
+    background-color: rgb(57, 51, 43);
+    box-shadow: 3px 3px 3px gray;
+    color: rgb(255, 255, 255);
+}
+
+.head3{
+    border: 2px solid black;
+    width: 150px;
+    text-align: center;
+    border-radius: 60px;
+    background-color: rgb(47, 41, 35);
+    box-shadow: 3px 3px 3px gray;
+    color: rgb(255, 255, 255);
+}
+
+.head4{
+    border: 2px solid black;
+    width: 130px;
+    text-align: center;
+    border-radius: 60px;
+    background-color: rgb(39, 33, 26);
+    box-shadow: 3px 3px 3px gray;
+    color: rgb(255, 255, 255);
+}
+
+.picture1 img{
+    width: 400px;
+    height: 250px;
+    margin-top: 50px;
+    margin-left: 5px;
+    margin-bottom: 50px;
+    border-radius: 20px;
+    box-shadow: 5px 8px 5px gray;
+}
+
+.para{
+    font-size: 20px;
+    margin-left: 10px;
+    color: rgb(0, 0, 0);
+}
+
+.click1{
+    text-align: center;
+}
+.click1 a{
+    width: 500px;
+    text-decoration: none;
+    box-shadow: 3px 3px 3px rgb(0, 0, 0);
+    border-radius: 3px;
+    background-color: rgb(255, 255, 255);
+}
+
+.click1 #top{
+    width: auto;
+    float: right;
+    margin-right: 30px;
+}
+
+#header2{
+    margin: 42px 430px;
+    text-align: center;
+    font-size: 50px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius:100px;
+    background-color: rgb(45, 45, 45);
+    box-shadow: 3px 3px 3px gray;
+    color: rgb(255, 255, 255);
+}
+
+.picture2 img{
+    display: block;
+    margin: auto;
+    width: 500px;
+    height: 300px;
+    border-radius: 12px;
+    box-shadow: 5px 8px 5px gray;
+    margin-top: 50px;
+}
+
+.click2{
+    text-align: center;
+}
+
+.click2 a{
+    width: 500px;
+    text-decoration: none;
+    box-shadow: 3px 3px 3px rgb(0, 0, 0);
+    border-radius: 3px;
+    background-color: rgb(255, 255, 255);
+}
+
+.click2 #previous{
+    width: auto;
+    float: right;
+}
